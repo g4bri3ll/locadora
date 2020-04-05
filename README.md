@@ -7,10 +7,10 @@ Por anos, idiomas e categorias, somente depois de logado, poderá assistir o fil
 ![alt text](https://github.com/g4bri3ll/locadora/blob/master/Imagens/Filme%201.png)
 
 Essa tela está com o inicio logado
-![alt text](https://github.com/g4bri3ll/locadora/blob/master/Imagens/Filme%202.png)
+![alt text](https://github.com/g4bri3ll/locadora/blob/master/Imagens/Filme%202.PNG)
 
 Essa tela e de cadastro de filmes novos
-![alt text](https://github.com/g4bri3ll/locadora/blob/master/Imagens/Filme%203.png)
+![alt text](https://github.com/g4bri3ll/locadora/blob/master/Imagens/Filme%203.PNG)
 
 Essa tela lista todos os filmes cadastro no sistema
-![alt text](https://github.com/g4bri3ll/locadora/blob/master/Imagens/Filme%204.png)
+![alt text](https://github.com/g4bri3ll/locadora/blob/master/Imagens/Filme%204.PNG)
